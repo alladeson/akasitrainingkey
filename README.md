@@ -10,7 +10,7 @@ AkasiTrainingKey est une solution d'apprentissage sur mesure dédiée aux profes
 
 Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur votre machine :
 
-- [PHP](https://www.php.net/) (version recommandée : 8.1+) En utilisant WampServer ou XAMPP directement c'est mieux : [XAMPP](https://www.apachefriends.org/fr/download.html) ou [WampServer](https://sourceforge.net/projects/wampserver/)
+- [PHP](https://www.php.net/) (version recommandée : 8.1+) En utilisant [WampServer](https://sourceforge.net/projects/wampserver/) ou [XAMPP](https://www.apachefriends.org/fr/download.html) directement c'est mieux
 - [Composer](https://getcomposer.org/)
 - [Laravel](https://laravel.com/) (version recommandée : 10)
 - [Git](https://git-scm.com/)
@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 1. Clonez ce repo sur votre machine :
    ```
-   https://github.com/alladeson/akasitrainingkey.git
+   git clone https://github.com/alladeson/akasitrainingkey.git
    ```
 
 2. Accédez au répertoire du projet :
