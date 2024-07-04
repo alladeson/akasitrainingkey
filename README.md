@@ -2,7 +2,7 @@
 
 # Akasi Training Key
 
-AkasiTrainingKey est une solution d'apprentissage sur mesure dédiée aux professionnels de la TECH du monde entier. Ce projet vise à offrir une plateforme aux apprenants de s'inscrire, visualiser et imprimer le catalogue des cours et aussi pouvoir reserver des places pour les séances de formations.
+AkasiTrainingKey est une solution d'apprentissage sur mesure dédiée aux professionnels de la TECH du monde entier. Ce projet vise à offrir une plateforme aux apprenants pour s'inscrire, visualiser et imprimer le catalogue des cours et aussi pouvoir reserver des places pour les séances de formations. Il intègre aussi le paiement en ligne.
 
 **Pour accéder à la plateforme en ligne : [Akasi Learning Key - Accueil](https://akasilearningkey.com/)**
 
