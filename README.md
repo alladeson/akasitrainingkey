@@ -34,13 +34,13 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 
 4. Copiez le fichier .env.example et renommez-le en .env :
    ```
-       cp .env.example .env
+   cp .env.example .env
    ```
    
 
 5. Générez une clé d'application Laravel :
     ```
-       php artisan key:generate
+    php artisan key:generate
     ```
 
 6. Configurez votre base de données dans le fichier .env.
