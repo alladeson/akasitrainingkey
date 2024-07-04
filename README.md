@@ -1,12 +1,10 @@
 <p align="center"><img src="https://akasilearningkey.com/front/img/customized/logo/alek-logo.png"></p>
 
-## Le lien d'accès en ligne : 
- - 
-
-# Cours Udemy : API REST avec Laravel
+# Akasi Training Key
 
 AkasiTrainingKey est une solution d'apprentissage sur mesure dédiée aux professionnels de la TECH du monde entier. Ce projet vise à offrir une plateforme aux apprenants de s'inscrire, visualiser et imprimer le catalogue des cours et aussi pouvoir reserver des places pour les séances de formations.
-**Pour accéder au cours sur Udemy : [Akasi Learning Key - Accueil](https://akasilearningkey.com/)**
+
+**Pour accéder à la plateforme en ligne : [Akasi Learning Key - Accueil](https://akasilearningkey.com/)**
 
 ## Configuration Requise
 
